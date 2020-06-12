@@ -1,6 +1,6 @@
 {
 "user":[
-  {"id": 1,"name": "isaa ber","username": "iober","email": "Siob@user.com", "image":""}
+  {"id": 1,"name": "isaa ber","username": "iober","email": "Siob@user.com", "image":"https://randomuser.me/api/portraits/lego/5.jpg"}
 ],
   "posts": [
     { "id": 1, "title": "Post 1" },
